@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalit Mohan Joshi</h1>
 <h3 align="center">Software Developer Having Experienced in - Cloud, Web, App Technology</h3>
 
-- 🔭 I’m currently working on SwiftWIN Technologies LLP [Foot Locker](https://www.footlocker.com/)
+- 🔭 I’m currently working on SwiftWIN Technologies LLP
 
 - 🌱 I’m currently learning **Oracle Cloud Services**
 
