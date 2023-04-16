@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on SwiftWIN Technologies LLP<br><br>🌱 I’m currently learning Oracle Cloud Services<br><br>👯 I’m looking to collaborate on Cloud Projects<br><br>📫 How to reach me lalitjoshi379@gmail.com
  
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-mohan-joshi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechnicalLalitJoshi) 
 
 # ❖Technical Skills
